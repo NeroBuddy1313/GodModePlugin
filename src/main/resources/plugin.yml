@@ -1,0 +1,4 @@
+name: GodMode
+version: '${project.version}'
+main: de.nerobuddy.godmode.GodMode
+api-version: 1.19
